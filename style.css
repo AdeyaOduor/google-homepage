@@ -16,6 +16,7 @@ html, body {
 
 .topnav a {
   float: right;
+  display: block;
   color: #242323;
   text-align: center;
   font-size: 17px;
