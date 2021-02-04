@@ -1,2 +1,3 @@
 # lakehub_webpage_exercise
-replication of google home page
+# Google Home page clone
+#### [TheOdinProject](https://www.theodinproject.com/)
